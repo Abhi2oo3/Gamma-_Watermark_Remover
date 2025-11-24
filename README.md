@@ -19,7 +19,7 @@
 
 <div align="center">
   <!-- Replace the link below with your actual interface screenshot -->
-  <img src="INSERT_INTERFACE_IMAGE_URL_HERE" width="85%" alt="App Interface Preview" />
+  <img src="image.png" width="85%" alt="App Interface Preview" />
 </div>
 
 ---
@@ -33,8 +33,8 @@
   </tr>
   <tr>
     <!-- Replace these two images with your actual before/after samples -->
-    <td><img src="INSERT_BEFORE_IMAGE_URL" width="95%"></td>
-    <td><img src="INSERT_AFTER_IMAGE_URL" width="95%"></td>
+    <td><img src="Screenshot 2025-11-24 153024.png" width="95%"></td>
+    <td><img src="Screenshot 2025-11-24 153045.png" width="95%"></td>
   </tr>
 </table>
 
